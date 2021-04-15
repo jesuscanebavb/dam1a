@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Archivo de master
+=======
+Archivo de pruebas2
+>>>>>>> pruebas2
 Otra linea 
